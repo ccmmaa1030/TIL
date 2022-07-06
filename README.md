@@ -1,6 +1,6 @@
 # ✏️ TIL (Today I Learned)
 
-- https://ccmmaa1030.github.io/TIL/
+- https://github.com/ccmmaa1030/TIL
 
 
 
